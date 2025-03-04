@@ -1,6 +1,6 @@
-- ### "" Some basic Markdown Syntax: ""
+- ### __Some basic Markdown Syntax:__
 
-	- """Headings:""" #_Heading, ##_Sub-Heading, ###_Sub-Sub-heading. The text size will be larger for heading and will be smaller for sub      heading and vice versa.
+	- ___Headings___ #_Heading, ##_Sub-Heading, ###_Sub-Sub-heading. The text size will be larger for heading and will be smaller for sub      heading and vice versa.
 
 	- """Bold:""" To represent a text in bold format. we have to use double quote two times in starting and ending ""(Your text here)"".For example, ""HELLO WORLD"".
               
