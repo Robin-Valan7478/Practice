@@ -1,4 +1,4 @@
-- ### ""Some basic Markdown Syntax:""
+- ### "" Some basic Markdown Syntax: ""
 
 	- """Headings:""" #_Heading, ##_Sub-Heading, ###_Sub-Sub-heading. The text size will be larger for heading and will be smaller for sub      heading and vice versa.
 
