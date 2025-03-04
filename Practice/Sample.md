@@ -141,6 +141,20 @@ For Example,
 
 
 
+- ## ___FLUTTER:___
 
+		Flutter can refer to an open-source framework for building apps, or an abnormal heart rhythm. 
 
-
+		- Basic commands for Flutter
+			-flutter doctor → Checks system setup for Flutter.
+			-flutter create my_app → Creates a new Flutter project.
+			-cd my_app → Navigates into the project folder.
+			-flutter run → Runs the app on a connected device/emulator.
+			-flutter devices → Lists connected devices and emulators.
+			-flutter build apk → Builds an APK for Android.
+			-flutter build web → Builds the app for the web.
+			-flutter clean → Clears temporary files and build cache.
+			-flutter pub get → Fetches dependencies from pubspec.yaml.
+			-flutter analyze → Checks for code issues and warnings.
+			-flutter emulators → Lists available emulators.
+			-flutter logs → Displays real-time logs from the running app.
